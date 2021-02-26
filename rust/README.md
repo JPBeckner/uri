@@ -1,0 +1,1 @@
+# Exercises solved in Rust

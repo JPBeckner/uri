@@ -4,3 +4,4 @@ Solved exercises of the [URI](https://www.urionlinejudge.com.br/judge/en/login) 
 ### Languages already available:
   * Rust
   * C++
+  * Go
